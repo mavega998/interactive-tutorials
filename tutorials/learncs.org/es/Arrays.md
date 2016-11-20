@@ -39,7 +39,7 @@ C# soporta matrices, definidas en la siguiente manera:
 Ejercicio
 ---------
 
-Defina un arreglo llamado `frutas` que contenga las siguientes cadenas: "manzana", "banano" and "naranja".
+Defina un arreglo llamado `frutas` que contenga las siguientes cadenas: "manzana", "banano" y "naranja".
 
 Tutorial Code
 -------------
